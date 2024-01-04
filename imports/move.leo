@@ -1,4 +1,4 @@
-program move.aleo {
+program*move.aleo {
     record move {
         owner: address,
         incoming_fire_coordinate: u64,
@@ -44,3 +44,4 @@ program move.aleo {
 }
 
 
+ 
